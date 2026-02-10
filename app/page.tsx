@@ -24,14 +24,14 @@ export default function Home() {
           </a>
           <a
             className="rounded-md border px-4 py-2"
-            href="https://github.com/YOUR_GITHUB"
+            href="github.com/SomeshZanwar"
             target="_blank"
           >
             GitHub
           </a>
           <a
             className="rounded-md border px-4 py-2"
-            href="https://www.linkedin.com/in/YOUR_LINKEDIN"
+            href="|linkedin.com/in/someshzanwar"
             target="_blank"
           >
             LinkedIn
